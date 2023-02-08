@@ -1,5 +1,13 @@
 # cucjestcypress
 
+This is a simple vue.js app where you can score points by clicking the button on the screen. However, if you click the button too many times very quickly, the button will become disabled and you will have to wait until the cooldown timer runs out to begin pressing again.
+
+![Image of app](./src/assets/cucjestcypressapp.png)
+
+Also included in this app are a suite of Jest unit tests and Cypress end to end tests, the latter pictured below.
+
+![Image of passed tests in cypress](./src/assets/cucjestcypresstest.png)
+
 ## Project setup
 ```
 npm install
